@@ -1,6 +1,6 @@
 ## Use setwd() so that the working directory in use contains the exdata_data_household_power_consumption file
 ## needed to complete this assignment. This needs to be done before the code below is ran in R.
-## The function library() is then used to open and use the neccessary packages needed to create a histogram. 
+## The function library() is then used to open and use the neccessary packages needed to create the necessary graphs. 
 
 ## Reads the data as a table and saves it in the object data, and creates another column made up from the
 ## V1 (date) and V2 (time) columns called datetime.
